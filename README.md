@@ -8,7 +8,7 @@
 
 **DURATION**: 4 WEEKS
 
-**MENTOR**: NEELA SANTOSH I
+**MENTOR**: NEELA SANTOSH 
 
 This repository contains all files and documentation related to the completion of the 1st task of the cloud computing internship at CODTECH IT SOLUTIONS PVT. LTD., submitted by ARYA RANI (Intern ID: CT08SVF).
 
