@@ -43,6 +43,7 @@ Step 5: Configure Access Permissions
   3.	Alternatively, you can configure permissions using Bucket Policy or IAM roles for more granular control.
 
 **Output**
+![Image](https://github.com/user-attachments/assets/e8ce463b-776f-4564-8f85-a2686f4258aa)
 
 
 
